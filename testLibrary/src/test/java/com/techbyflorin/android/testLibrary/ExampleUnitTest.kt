@@ -1,4 +1,4 @@
-package com.techbyflorin.android.mylibrary
+package com.techbyflorin.android.testLibrary
 
 import org.junit.Test
 

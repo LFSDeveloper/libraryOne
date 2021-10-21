@@ -1,4 +1,4 @@
-package com.techbyflorin.android.mylibrary
+package com.techbyflorin.android.testLibrary
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

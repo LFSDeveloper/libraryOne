@@ -1,4 +1,4 @@
-package com.techbyflorin.android.mylibrary
+package com.techbyflorin.android.testLibrary
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
