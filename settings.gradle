@@ -8,3 +8,5 @@ dependencyResolutionManagement {
 }
 rootProject.name = "libraryOne"
 include ':testLibrary'
+include ':exampleLibrary'
+include ':harnessapp'
